@@ -1,14 +1,7 @@
 ### Greetings, dear guest, 👋 here I will post my assignments on the way to becoming an IT specialist. 
 ____
 
-<html>
-<head>
-<title>Выравнивание текста в HTML, текст по центру, справа страницы</title>
-</head>
-<body>
-<img src="why.jpg" align="center">
-</body>
-</html>
+<p align="center"><img src="why.jpg"></p>
 
 
 
