@@ -1,4 +1,4 @@
-### Greetings, dear guest, 👋 here I will post my assignments on the way to becoming an IT specialist. 
+### Greetings, dear guest. 
 ____
 
 <p align="center"><img src="why.jpg"></p>
