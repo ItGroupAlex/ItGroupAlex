@@ -1,4 +1,4 @@
-### Greetings, dear guest. :v:
+### Greetings! :v:
 ____
 
 <p align="center"><img src="why.jpg"></p>
